@@ -28,5 +28,5 @@ twitter.php: PHP run file to connect with Twitter API
 I used the SlimPHP v3 framework, with the https://github.com/slimphp/Slim-Skeleton/tree/3.1.8 clone version.
 This structure puts the settings and routes on src/ folder
 
-**api/src/settings.php:** Settings to DB and header for the project.
-**api/src/routes.php:** Logic routes and endpoint funcionality.
+* **api/src/settings.php:** Settings to DB and header for the project.
+* **api/src/routes.php:** Logic routes and endpoint funcionality.
